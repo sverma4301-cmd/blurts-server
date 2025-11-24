@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mera Chhota Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>🎮 Awesome Game Name 🎮</h1>
+    </header>
+
+    <main id="game-container">
+        <h2>Game Yahan Hoga!</h2>
+        <p>Instructions: Game shuru karne ke liye button dabayein.</p>
+        <button id="start-btn">Start Game</button>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Mera Game Site</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
